@@ -1,6 +1,6 @@
 # IoT Sensors Stream Data Visualization
 
-https://github.com/Mostafa-Elseidy/Stream_IoT_Sensors/assets/67195496/b984dc44-ff1d-4628-98a1-288d9845431d
+![Dashboard_vid](https://github.com/Mostafa-Elseidy/Stream_IoT_Sensors/assets/67195496/b984dc44-ff1d-4628-98a1-288d9845431d)
 
 ## Project Overview
 
