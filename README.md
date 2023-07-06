@@ -1,5 +1,7 @@
 # IoT Sensors Stream Data Visualization
 
+https://github.com/Mostafa-Elseidy/Stream_IoT_Sensors/assets/67195496/b984dc44-ff1d-4628-98a1-288d9845431d
+
 ## Project Overview
 
 This project focuses on the visualization of real-time stream data from IoT sensors. By visualizing the data on a dashboard, it provides valuable insights for monitoring and analysis.
@@ -11,6 +13,8 @@ The objective is to create a system that simulates stream data from various IoT 
 The purpose of this project is to create a system that simulates stream data from various IoT sensors, stores the data in a database, and visualizes it on a dashboard. This enables real-time monitoring and analysis of IoT sensor data, which can be crucial in applications such as environmental monitoring, industrial automation, and smart city management.
 
 ## Project Workflow
+
+![Screenshot_techs](https://github.com/Mostafa-Elseidy/Stream_IoT_Sensors/assets/67195496/76cbb1cd-f43c-4f8e-9b61-e62d131b3c24)
 
 The project workflow involves:
 
@@ -85,7 +89,7 @@ To run this project, follow these steps:
 
 ## Results and Analysis
 
-After successfully running the project and visualizing the IoT sensor data, several insights can be drawn. For example:
+After successfully running the project and visualizing the IoT sensors data, several insights can be drawn. For example:
 
 - The real-time monitoring of air temperature and humidity can help identify environmental conditions suitable for various applications.
 - The measurement of TVOC and eCO2 levels can aid in detecting air quality issues.
